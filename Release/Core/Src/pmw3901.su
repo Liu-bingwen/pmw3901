@@ -1,0 +1,4 @@
+../Core/Src/pmw3901.c:95:9:WriteReg	24	static
+../Core/Src/pmw3901.c:121:9:ReadReg	24	static
+../Core/Src/pmw3901.c:12:9:PMW3901_init	16	static
+../Core/Src/pmw3901.c:160:9:initRegisters	8	static
